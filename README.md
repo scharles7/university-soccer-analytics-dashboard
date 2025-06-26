@@ -53,14 +53,37 @@ This Power BI dashboard provides coaches and sports analysts with a data-driven 
 
 As a supplementary view, this dashboard includes a **Pain Structural Analysis** section that visualizes self-reported discomfort across different muscle groups. Each player’s pain zones are highlighted on anatomical diagrams, supporting physical therapy and training decisions.
 
-![Pain Structural Analysis](pain-structural-analysis.png)
+![Pain Structural Analysis](https://github.com/scharles7/university-soccer-analytics-dashboard/blob/main/Pain_Structural_Analysis_Preview_png.png)
 
 > *Image: Visual mapping of reported body pain areas per player.*
 
 ---
 
+
+## 🔗 Live Power BI Report
+[View the Full Dashboard](https://app.powerbi.com/groups/me/reports/2b4c3b7b-33a0-40a2-8671-5628195e625a/af211164dc061acd5545?experience=power-bi)
+
+---
+
 ## 📘 Additional Resources
-- [`pain-structural-analysis.md`](pain-structural-analysis.md) *(Optional detailed explanation of methodology, visuals, and metrics used in the Pain Structural Analysis addendum)*
+
+### 🗃️ Data Structure
+- Player wellness metrics: sleep, energy, fatigue, stress
+- Performance logs: sprint load, minutes played
+- Injury tracking database (SQL)
+- Derived KPIs for training readiness and injury risk
+
+### 🛠️ SQL & DAX
+- SQL used to clean and join survey and performance tables
+- DAX used to calculate risk scores, wellness status, and player-level KPIs
+
+### 🩺 Pain Structural Analysis (Addendum)
+Players self-report physical discomfort, which is mapped visually on muscle diagrams. This supports athletic trainers in making evidence-based recovery plans and identifying commonly affected body zones.
+
+### 🔄 Future Enhancements
+- Introduce time-series trends of pain reports
+- Add predictive modeling for injury likelihood
+- Expand filters to include match types and weather conditions
 
 ---
 
