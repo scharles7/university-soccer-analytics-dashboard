@@ -1,28 +1,33 @@
 # university-soccer-analytics-dashboard
 A Power BI dashboard to track and improve soccer player performance and wellness. 
 
-# Soccer Performance Dashboard ⚽
+# 🚀 Soccer Performance & Injury Risk Dashboard
 
 ## 📊 Overview
-This Power BI dashboard provides real-time insights into university soccer team performance, integrating training loads, player wellness, and injury risk.
+This Power BI dashboard provides a comprehensive view of individual soccer player performance and well-being. It is designed to help coaches make data-driven decisions to improve performance and prevent injuries.
 
-## 🧩 Features
-- Player-level KPIs: performance, minutes, sprint load, and recovery
-- Injury risk prediction visuals
-- Dynamic filters by date, player, and match
+## 🧠 Objective
+To monitor training load, track match performance, and proactively flag potential injury risks by integrating multiple data points, including sprint load and daily wellness inputs.
 
-## 🗂️ Data Source
-- Player performance logs
-- GPS-tracked sprint data
-- Daily wellness surveys (CSV format)
+## 🛠️ Tools & Technologies
+- **SQL** – Used for extracting, cleaning, and transforming raw data from relational databases before importing into Power BI
+- **Power BI** – Data visualization and dashboard development
+- **DAX** – Custom calculations for KPIs and dynamic measures
+- **Excel** – Preliminary data cleaning and cross-checking
 
-## 🛠️ Tools Used
-- Power BI
-- DAX
-- Excel
+## 📂 Data Sources
+- Match and training performance metrics (e.g., minutes played, sprint load)
+- Daily wellness survey data (CSV)
+- GPS-tracked movement logs
+- SQL databases containing historical injury and training records
+
+## 🧩 Key Features
+- Player-level dashboards with drill-through filters
+- Injury risk indicators based on workload vs. recovery
+- Real-time tracking using slicers by date, player, and activity
+- Trendline visualizations of training intensity over time
 
 ## 🖼️ Preview
 ![Dashboard Screenshot](https://github.com/scharles7/university-soccer-analytics-dashboard/blob/main/Dashboard-preview.png.png)
 
-## 🔗 Live Link
-[View Dashboard on Power BI](https://app.powerbi.com/groups/me/reports/2b4c3b7b-33a0-40a2-8671-5628195e625a/af211164dc061acd5545?experience=power-bi)
+
