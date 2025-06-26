@@ -22,7 +22,7 @@ This Power BI dashboard provides real-time insights into university soccer team 
 - Excel
 
 ## 🖼️ Preview
-![Dashboard Screenshot](dashboard-preview.png)
+![Dashboard Screenshot](https://github.com/scharles7/university-soccer-analytics-dashboard/blob/main/Dashboard-preview.png.png)
 
 ## 🔗 Live Link
 [View Dashboard on Power BI](https://app.powerbi.com/groups/me/reports/2b4c3b7b-33a0-40a2-8671-5628195e625a/af211164dc061acd5545?experience=power-bi)
