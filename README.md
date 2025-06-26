@@ -90,7 +90,7 @@ Players self-report physical discomfort, which is mapped visually on muscle diag
 ## 👤 Author
 **Serene Celles** – Business Intelligence Analyst Intern | MSBA Candidate  
 University of the Pacific  
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/serenecelles) | [GitHub](https://github.com/schales7)
 
 
 
